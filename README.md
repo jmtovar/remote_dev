@@ -32,8 +32,8 @@ ephemeral-dev/
 
 ```bash
 # 1. Clone this repo to your local machine
-git clone git@github.com:you/ephemeral-dev.git
-cd ephemeral-dev
+git clone git@github.com:jmtovar/remote_dev.git
+cd remote_dev
 
 # 2. Fill in your values
 cp terraform/terraform.tfvars.example terraform/terraform.tfvars
